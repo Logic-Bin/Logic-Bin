@@ -8,7 +8,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Logic-Bin&label=PROFILE+VIEWS&style=flat-square" alt="Profile Views" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Logic-Bin&label=PROFILE+VIEWS&style=flat-square"
+    alt="Profile Views"
+  />
 </p>
 
 ---
@@ -31,7 +34,11 @@
 <h3 align="center">📊 GitHub Metrics</h3>
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img
+    src="./github-metrics.svg"
+    alt="GitHub Metrics"
+    width="100%"
+  />
 </p>
 
 ---
