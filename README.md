@@ -64,13 +64,13 @@
 
 ---
 
-<h3 align="center">📅 Contribution Activity</h3>
+<h3 align="center">📅 Contribution Calendar</h3>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Logic-Bin&theme=tokyo-night&hide_border=true&area=true"
+    src="./contribution-calendar.svg"
     width="100%"
-    alt="Contribution Graph"
+    alt="Contribution Calendar"
   />
 </p>
 
