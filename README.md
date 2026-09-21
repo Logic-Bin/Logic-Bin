@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="./github-metrics.svg" alt="Metrics" width="100%">
 </p>
-<div align="center"> <img src="https://metrics.lecoq.io/Logic-Bin?template=classic&config.timezone=Asia%2FShanghai"> </div>
